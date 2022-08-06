@@ -2,7 +2,7 @@
 
 <br>
 
-<p>Canon printer is one of the well-known brands for many gadgets such as cameras, printers, as well as many devices. In the process of canon printer setup and installation on the computer, laptop, or mac. It is not an easy task when you do not have proper instructions that will help you install the driver of the canon printer. What you need to do is to visit the official website of the canon printer which is <strong>ij.start.canon</strong>. There you will get to know the simple and quick steps for downloading and connecting the canon printer software with the operating device. </p>
+<p>Canon printer is one of the well-known brands for many gadgets such as cameras, printers, as well as many devices. In the process of canon printer setup and installation on the computer, laptop, or mac. It is not an easy task when you do not have proper instructions that will help you install the driver of the canon printer. What you need to do is to visit the official website of the canon printer which is <strong><a href="https://startijcans.github.io/">ij.start.canon</a></strong>. There you will get to know the simple and quick steps for downloading and connecting the canon printer software with the operating device. </p>
 
 <h2> Downloading Steps for Printer Drivers of Ij.Start.Canon </h2>
 <br>
@@ -12,7 +12,7 @@
 
 <ul>
   
-  <li> The first thing that you need to do is to enter the browser and then go to the <strong>ij.start .canon</strong>. </li>
+  <li> The first thing that you need to do is to enter the browser and then go to the <strong><a href="https://startijcans.github.io/">ij.start.canon</a></strong>. </li>
   <li> After that, you need to choose your preferred language and then select your country. </li>
   <li> Now you will see that the page forwarded for signing up and then creating the account page. </li>
   <li> Then you can log in to your account by entering the login details and the credentials. </li>
@@ -37,7 +37,7 @@
    <li> Then you need to run the downloaded file and follow the instructions that are on the screen.</li> 
    <li> Now, the wizard is going to ask you to choose the type of connection that you are using. </li>
    <li> After that choose the alternative that you like.</li> 
-  <li>  Well, finally, you will be able to complete the <strong>ij.start.canon</strong> setup and the software installation.</li> 
+  <li>  Well, finally, you will be able to complete the <strong><a href="https://startijcans.github.io/">ij.start.canon</a></strong> setup and the software installation.</li> 
   
   </ul>
    <br>
@@ -61,7 +61,7 @@
   
   </ul>
   
-  <p>This is the process of the <strong>ij.start.canon</strong>. For more queries, get in touch with our experts. </p>
+  <p>This is the process of the <strong><a href="https://startijcans.github.io/">ij.start.canon</a></strong>. For more queries, get in touch with our experts. </p>
 
 
   
